@@ -1,0 +1,18 @@
+.Details{
+    margin-left: 12px;
+    margin-top: 18px;
+}
+
+.Name{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color:#001521;
+}
+
+.Place{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #46555f;
+}
